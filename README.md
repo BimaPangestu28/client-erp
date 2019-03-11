@@ -1,6 +1,6 @@
 # client-erp
 
-> Client for ERP System
+> Client for ERP System - Have fun with code guys
 
 ## Build Setup
 
